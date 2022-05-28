@@ -6,5 +6,5 @@
 
 **Samuel Haefs**
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
+- [Profile](https://github.com/SamGTex "Samuel Haefs")
 - [Email](mailto:samuel.haefs@tu-dortmund.de "samuel.haefs@tu-dortmund.de")
