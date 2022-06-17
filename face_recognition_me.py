@@ -37,7 +37,7 @@ while(True):
     ret, frame = vid.read()
 
     # make prediction
-    prediction = model.predict(frame.reshape(1,480,640,3))
+    prediction = model.predict(frame.reshape(1,480,640,3), verbose=0)
 
     # safe sum of prediction to calculate an average over 20 frames
     n_pred += prediction.sum() #just a single number but need int
